@@ -17,6 +17,7 @@ export const useFetchGifs=(category)=>{
                     }); 
 
             });
+        
     },[category]);
 
     
